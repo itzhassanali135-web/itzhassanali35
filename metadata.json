@@ -1,0 +1,7 @@
+{
+  "name": "StyleMorph AI",
+  "description": "A sophisticated multimodal AI application that transforms your personal photos to match the style, mood, and lighting of any reference image while preserving your unique identity.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
